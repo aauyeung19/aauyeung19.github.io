@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew Auyeung"
 title_separator          : "-"
 name                     : &name "Andrew Auyeung"
-description              : &description "personal description"
+description              : &description "Physics Teacher Turned NLP Machine Learning Data Scientist"
 url                      : https://aauyeung19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aauyeung19.github.io"
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/andrew-auyeung19"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
